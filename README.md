@@ -1,4 +1,40 @@
-# Website
+<div align="center" style="background-color:'#00AAAE'">
+<img src="./static/img/docusaurus-lockscreen.gif" height="200"> <br>
+  <strong>Docusaurus Lockscreen Starter</strong>
+</div>
+<div align="center">
+  A <code>starter</code> to create docusaurus with lockscreen page
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Docusaurus Version -->
+  <img src="https://img.shields.io/badge/docusaurus-v2.0-green" 
+    alt="Docusaurus version" />
+  <!-- React Version -->
+  <img src="https://img.shields.io/badge/react-v17.0-purple" 
+    alt="React version" />
+</div>
+
+### Table of Contents
+- [Demo](#demo)
+- [Medium & Documentation](#medium--documentation)
+- [Website Information](#website-information)
+  - [Installation](#installation)
+  - [Local Development](#local-development)
+  - [Build](#build)
+  - [Deployment](#deployment)
+
+## Demo
+
+Please view demo **[here](http://coroo.github.io/docusaurus-lockscreen-starter/)**.
+
+## Medium & Documentation
+
+For installation & ideas documentation please refer to this medium.
+
+## Website Information
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 

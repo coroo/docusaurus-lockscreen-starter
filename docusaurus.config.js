@@ -1,3 +1,6 @@
+const dotenv = require('dotenv');
+dotenv.config();
+
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'My Site',

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_lockscren_starter=self.webpackChunkdocusaurus_lockscren_starter||[]).push([[633],{2511:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/blog/tags/facebook"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_lockscren_starter=self.webpackChunkdocusaurus_lockscren_starter||[]).push([[801],{7064:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"blog","name":"blog","count":2,"permalink":"/blog/tags/blog"}')}}]);

@@ -19,7 +19,8 @@
 
 ### Table of Contents
 - [Demo](#demo)
-- [Medium & Documentation](#medium--documentation)
+- [How to Use](#how-to-use)
+- [How to Create](#how-to-create)
 - [Website Information](#website-information)
   - [Installation](#installation)
   - [Local Development](#local-development)
@@ -30,9 +31,17 @@
 
 Please view demo **[here](http://coroo.github.io/docusaurus-lockscreen-starter/)**.
 
-## Medium & Documentation
+```
+Pass: secret
+```
 
-For installation & ideas documentation please refer to this medium.
+## How to Use
+
+To use this documentation, you can easily use `fork`.
+
+## How to Create
+
+For ideas & how to create documentation please refer to this [medium](https://kuncorowicaksono.medium.com/docusaurus-access-restriction-lockscreen-github-page-ed80f4971a7).
 
 ## Website Information
 

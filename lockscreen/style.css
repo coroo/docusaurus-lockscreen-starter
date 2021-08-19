@@ -19,7 +19,7 @@ body{
  background-attachment: fixed;
  background-size: cover;
  background-position: top;
- background-image:url(./background.jpeg);
+ background-image:url(https://raw.githubusercontent.com/coroo/docusaurus-lockscreen-starter/master/lockscreen/background.jpeg);
  width: 100%;
  height: 100%;
  font-family: Arial, Helvetica;
